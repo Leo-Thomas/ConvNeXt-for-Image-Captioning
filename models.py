@@ -13,6 +13,8 @@ class Encoder(nn.Module):
     def __init__(self, encoded_image_size=7):
         super(Encoder, self).__init__()
         self.enc_image_size = encoded_image_size
+        
+        #Be aware about encode dim
 
         #convnext = torchvision.models.convnext_tiny(pretrained=True) 
         convnext = torchvision.models.convnext_small(pretrained=True) 
