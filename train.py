@@ -12,7 +12,7 @@ from nltk.translate.bleu_score import corpus_bleu
 
 # Data parameters
 #data_folder = "C:/Users/rleot/OneDrive/Desktop/Tesis/TesisEnv/SAT/output"  # folder with data files saved by create_input_files.py
-data_folder = '/home/leo.ramos/SAT/output'
+data_folder = 'data_folder_path'
 data_name = 'coco_5_cap_per_img_5_min_word_freq'  # base name shared by data files
   
 # Model parameters
@@ -36,7 +36,7 @@ alpha_c = 1.  # regularization parameter for 'doubly stochastic attention', as i
 best_bleu4 = 0.  # BLEU-4 score right now
 print_freq = 100  # print training/validation stats every __ batches
 fine_tune_encoder = False  # fine-tune encoder?
-#checkpoint = '/home/leo.ramos/SAT/ConvNext/BEST_checkpoint_coco_5_cap_per_img_5_min_word_freq.pth.tar'  # path to checkpoint, None if none
+#checkpoint = 'checkpoint_path'  # path to checkpoint, None if none
 
 checkpoint = None  # path to checkpoint, None if none
 
