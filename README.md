@@ -1,19 +1,5 @@
 # Boosting Image Captioning Using ConvNeXt Deep Neural Networks
 
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About the project</a>
-    </li>
-    <li><a href="#usage">Usage</a>
-    </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 <!-- ABOUT THE PROJECT -->
 ## About the project
 
@@ -22,19 +8,27 @@ This work proposes a ConvNeXt backbone-based model for image captioning. Specifi
 This project was developed by Leo Ramos student at [Yachay Tech University](https://www.yachaytech.edu.ec/en/). It was supervised by Eugenio Morocho, Francklin Rivas professors at [Yachay Tech University](https://www.yachaytech.edu.ec/en/), and Edmundo Casas and Cristian Romero from [Kauel](https://kauel.com/#).
 
 ### Built With
+
 * [Python](https://www.python.org/)
-* [Scikit-Fuzzy](https://pypi.org/project/scikit-fuzzy/)
-* [Bootstrap](https://getbootstrap.com/)
-* [Flask](https://flask.palletsprojects.com/en/2.2.x/)
+* [PyTorch](https://pytorch.org/)
+* [Hugging Face](https://huggingface.co/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Usage
-
-### Installation
+## Installation
 
 pip install git+https://github.com/Leo-Thomas/ConvNeXt-for-Image-Captioning-.git
+
+## Description of the main files
+
+- [train.py](https://github.com/Leo-Thomas/ConvNeXt-for-Image-Captioning-/blob/main/train.py): Network training script. 
+- [caption.py](https://github.com/Leo-Thomas/ConvNeXt-for-Image-Captioning-/blob/main/caption.py): Used to perform the inference process for an input image.
+- [models.py](https://github.com/Leo-Thomas/ConvNeXt-for-Image-Captioning-/blob/main/models.py): It contains the whole architecture including the encoder and decoder components.
+
+## Data set
+
+We used the 2014 version of the COCO dataset. It can be found for free in the official web site and includes the [training](http://images.cocodataset.org/zips/train2014.zip) and [validation](http://images.cocodataset.org/zips/val2014.zip) sub data sets.
 
 <!-- CONTRIBUTING -->
 ## Contributing
