@@ -1,4 +1,4 @@
-# Boosting Image Captioning Using ConvNeXt Deep Neural Networks
+# A ConvNeXt Backbone-based Approach for Image Captioning
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
