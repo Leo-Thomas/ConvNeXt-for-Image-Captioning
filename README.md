@@ -1,4 +1,4 @@
-# A ConvNeXt Backbone-based Approach for Image Captioning
+# ConvNeXt Approach for Image Captioning
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
