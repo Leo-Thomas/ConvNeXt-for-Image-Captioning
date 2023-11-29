@@ -18,7 +18,7 @@ This project was developed by Leo Ramos student at [Yachay Tech University](http
 <!-- GETTING STARTED -->
 ## Installation
 
-pip install git+https://github.com/Leo-Thomas/ConvNeXt-for-Image-Captioning-.git
+pip install git+https://github.com/Leo-Thomas/ConvNeXt-for-Image-Captioning.git
 
 ## Description of the main files
 
