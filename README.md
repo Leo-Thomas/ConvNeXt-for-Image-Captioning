@@ -1,4 +1,4 @@
-# ConvNeXt Approach for Image Captioning
+# ConvNeXt for Image Captioning
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
