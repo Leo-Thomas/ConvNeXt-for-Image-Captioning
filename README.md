@@ -57,7 +57,18 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- CITAITON -->
+## Citation
 
+@ARTICLE{10410861,
+  author={Ramos, Leo and Casas, Edmundo and Romero, Cristian and Rivas-Echeverría, Francklin and Morocho-Cayamcela, Manuel Eugenio},
+  journal={IEEE Access}, 
+  title={A Study of ConvNeXt Architectures for Enhanced Image Captioning}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={13711-13728},
+  doi={10.1109/ACCESS.2024.3356551}}
 
 <!-- CONTACT -->
 ## Contact
