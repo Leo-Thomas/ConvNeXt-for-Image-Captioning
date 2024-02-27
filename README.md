@@ -73,11 +73,13 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 <!-- CONTACT -->
 ## Contact
 
+Leo Ramos - [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - leo.ramos@kauel.com
+
 Francklin Rivas - [LinkedIn](https://www.linkedin.com/in/francklin-rivas-echeverria-514180144/) - frivas@yachaytech.edu.ec
 
 Eugenio Morocho - [LinkedIn](https://www.linkedin.com/in/eugenio-morocho-cayamcela/) - mmorocho@yachaytech.edu.ec
 
-Leo Ramos - [LinkedIn](https://www.linkedin.com/in/leo-thomas-ramos/) - leo.ramos@yachaytech.edu.ec
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
